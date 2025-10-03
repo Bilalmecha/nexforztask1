@@ -1,0 +1,8 @@
+print("welcome,kindly enter your contact info:")
+name=input("enter your name:")
+phone_no=int(input("enter your phone number:"))
+email=input("enter your email:")
+print("contact info of ",name)
+print("name:",name)
+print("phone number:",phone_no)
+print("email:",email)
